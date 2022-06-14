@@ -1,0 +1,3 @@
+Hand textures file is an OBJ file. It isnt any different from a FBX so you dont have to worry about that.
+
+Every material inside the model has its own textures. In the texture Folder you will find each part with its own textures for example: Hand = hand_base_colour hand_normal_mapping etc.
